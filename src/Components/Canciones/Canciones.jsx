@@ -1,4 +1,4 @@
-import Button from "../Buttons/Button";
+/* import Button from "../Buttons/Button"; */
 import './canciones.css'
 
 const Canciones =()=>{
@@ -11,6 +11,6 @@ const Canciones =()=>{
             </div>
         </section>
     )
-}
+} 
 
 export default Canciones;

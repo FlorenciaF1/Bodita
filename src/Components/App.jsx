@@ -6,7 +6,7 @@ import Regalos from './Regalos/Regalos.jsx';
 import RedSocial from './RedSocial/RedSocial.jsx';
 import ConfirmarAsistencia from './ConfirmarAsistencia/ConfirmarAsistencia'
 import DressCode from './DressCode/DressCode.jsx';
-import Canciones from './Canciones/Canciones.jsx';
+/* import Canciones from './Canciones/Canciones.jsx'; */
 import Gracias from './Gracias/Gracias.jsx';
 import Footer from './Footer/Footer.jsx';
 import './app.css'
@@ -47,7 +47,7 @@ function App() {
       <ConfirmarAsistencia></ConfirmarAsistencia>
       <DressCode></DressCode>
       <RedSocial></RedSocial>
-      <Canciones></Canciones>
+{/*       <Canciones></Canciones> */}
       <Gracias></Gracias>
       <Footer></Footer>
     </div>

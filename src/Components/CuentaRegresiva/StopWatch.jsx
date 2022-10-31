@@ -11,7 +11,7 @@ function StopWatch() {
   let interval = useRef();
 
   const starTimer = () => {
-    const countdownDate = new Date('oct 20 2022 09:00:00').getTime();
+    const countdownDate = new Date('nov 12 2022 16:00:00').getTime();
 
     interval = setInterval(() => {
       const now = new Date().getTime();
